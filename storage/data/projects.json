@@ -1,0 +1,14 @@
+[
+  {
+      "id": 1,
+      "title": "Project One",
+      "description": "A description of Project One.",
+      "details": "Detailed information about Project One."
+  },
+  {
+      "id": 2,
+      "title": "Project Two",
+      "description": "A description of Project Two.",
+      "details": "Detailed information about Project Two."
+  }
+]

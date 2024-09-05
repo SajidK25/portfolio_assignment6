@@ -1,0 +1,14 @@
+[
+  {
+      "company": "Company A",
+      "position": "Software Engineer",
+      "duration": "Jan 2020 - Present",
+      "description": "Worked on developing web applications."
+  },
+  {
+      "company": "Company B",
+      "position": "Junior Developer",
+      "duration": "Jun 2018 - Dec 2019",
+      "description": "Assisted in backend development and maintenance."
+  }
+]
